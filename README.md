@@ -1,4 +1,4 @@
-vishal-h.github.com
+vishal-h.github.io
 ===================
 
 Blog through github pages.
